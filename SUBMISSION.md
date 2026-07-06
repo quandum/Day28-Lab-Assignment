@@ -1,4 +1,11 @@
-# Hướng Dẫn Nộp Bài - Lab #28: Full Platform Integration Sprint
+# BÁO CÁO & HƯỚNG DẪN NỘP BÀI - Lab #28: Full Platform Integration Sprint
+
+**Học viên:** Trần Mạnh Chánh Quân  
+**Mã học viên:** 2A202600786  
+**Môn học:** AICB-P2T2 · Chương 6: Tổng Hợp  
+**Ngày thực hiện:** 06/07/2026  
+
+---
 
 ## Yêu Cầu Nộp Bài
 
